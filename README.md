@@ -11,9 +11,9 @@ This is an Udacity Nanodegree project. I chose to further analyze Stack Overflow
   4. Database
 
 ## File Description
-DS_MLS_Stack_Overflow.ipynb: Notebook containing the data analysis.
-survey_results_public.csv: Stackoverflow's 2019 Annual Developer Survey data.
-survey_results_schema.csv: Details for survey results column names 
+DS_MLS_Stack_Overflow.ipynb: Notebook containing the data analysis.  
+survey_results_public.csv: Stackoverflow's 2019 Annual Developer Survey data.  
+survey_results_schema.csv: Details for survey results column names. 
 
 ## Results
 Findings can be found on the word document
